@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Connector_Gaming")(type "Legacy")(uri "/home/nailima/Documents/KiCAD Lib/BlueRetroHW/Cables/symbol/Connector_Gaming.lib")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "Legacy")(uri "/home/nailima/Dropbox/kicad lib/SamacSys_Parts.lib")(options "")(descr ""))
+)
